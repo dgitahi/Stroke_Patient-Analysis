@@ -11,7 +11,9 @@
 Use pytthon 3.
 
 ### Project Motivation
+
 The idea behind the analysis is to identify the main predictors of Stroke. 
+
 To understand this i have looked at 3 main questions:
 1. Does smoking increase the probability of getting stroke?
 2. Does a patient with other underlying conditions more susceptible to stroke?
@@ -22,6 +24,9 @@ To understand this i have looked at 3 main questions:
 The repo has 3 notebooks. Each addressing the 3 questions as indicated above
 
 ### Results
-The results of this analysis have been published in Medium
+The results of this analysis have been published in Medium 
 ### Licensing, Authors, and Acknowledgements
-The data was sourced from kaggle, and the code is free for use.
+The data was sourced from [kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset), and the code is free for use.
+
+
+
