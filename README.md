@@ -34,6 +34,8 @@ The data contains historical information of 5000 patients with 12 attributes. Th
 10. BMI: Body Mass Index
 11. smoking_status: Smoking status of the patient
 12. stroke: Stroke event- indicates whether a customer has stroke or not (1- has stroke ,0 – No stroke)
+
+
 More info about the data can be found in [this link](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
 #### Prepare Data
@@ -49,8 +51,7 @@ We use recall, precision, and f1-score to evaluate the model performance. The re
 F1-score helps in getting a good balance of the precision and recall
 Also, I optimized more on recall than the precision since it is a lesser harm to label a patient that they will get stroke and not get it than fail to identify a patient who will actually get stroke
 
-####
-Results and Conclusion:
+#### Results and Conclusion
 Summary of the result published in a [medium article](https://medium.com/@gitahidave/what-are-the-possible-causes-of-stroke-e53325d2bfe3)
 
 
